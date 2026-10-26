@@ -1,3 +1,3 @@
-x = input(int("Getal: "))
+x = int(input("Getal"))
 
 print(abs(x))
