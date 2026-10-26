@@ -14,14 +14,6 @@ def weeks_elapsed (day1: int, day2: int) -> str:
     3
 
     """
-    if day2 > day1:
-        dag1 = day2
-    else:
-        dag1 = day1
-    
-    dagen_verstreken = day2 - dag1
-    
-    weken = dagen_verstreken // 7
-    return print(f"Er zijn {weken} weken weken verstreken")
+    return day2
     
 weeks_elapsed(3, 20)
