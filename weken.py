@@ -14,7 +14,7 @@ def weeks_elapsed (day1: int, day2: int) -> str:
     3
 
     """
-    
+    weken = day2 - day1
     
     return 
     
