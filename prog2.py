@@ -1,2 +1,2 @@
 x = input("Invoer: ")
-print()
+print(x, x, x)
