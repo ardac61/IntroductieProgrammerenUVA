@@ -15,7 +15,7 @@ def weeks_elapsed (day1: int, day2: int) -> int:
 
     """
     if day1 > day2:
-        day11 = 
+        dag1
     
     
     weken = dagen_verstreken // 7
