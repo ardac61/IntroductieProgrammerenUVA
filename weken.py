@@ -14,7 +14,7 @@ def weeks_elapsed (day1: int, day2: int) -> str:
     3
 
     """
-    weken = math.floor(abs((day2 - day1) // 7)
+    weken = math.floor(abs((day2 - day1) // 7))
     
     return print(f"Weken voorbij: {weken}")
     
