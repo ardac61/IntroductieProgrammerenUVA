@@ -14,6 +14,6 @@ def weeks_elapsed (day1: int, day2: int) -> str:
     3
 
     """
-    return day2
+    return day2 - day1 // 7
     
 weeks_elapsed(3, 20)
