@@ -1,2 +1,2 @@
 x = input("Invoer: ")
-print(f"x, )
+print(f{x, )
