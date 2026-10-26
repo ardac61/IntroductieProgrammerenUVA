@@ -1,4 +1,4 @@
-if __name__ == '__main__'
+if __name__ == '__main__':
     """
     Berekent het aantal volle weken dat verstreken is tussen twee dagen
     in hetzelfde jaar. De dagen zijn gegeven als dagnummer (day1 en day2).
