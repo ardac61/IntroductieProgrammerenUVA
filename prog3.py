@@ -1,1 +1,2 @@
 x = input(int("Getal: "))
+
