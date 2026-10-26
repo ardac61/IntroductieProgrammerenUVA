@@ -1,2 +1,2 @@
 x = input("Invoer: ")
-print(f"{x}, ") * 3
+print(f"{x}, ")
