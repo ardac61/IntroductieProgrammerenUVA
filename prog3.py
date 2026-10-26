@@ -1,1 +1,1 @@
-x = input(int())
+x = input(int("Getal: "))
