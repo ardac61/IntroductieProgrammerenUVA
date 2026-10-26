@@ -1,1 +1,1 @@
-x = int("Invoer: ")
+x = input("Invoer: ")
