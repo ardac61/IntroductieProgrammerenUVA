@@ -1,3 +1,5 @@
+
+
 def weeks_elapsed (day1: int, day2: int) -> str:
     """
     Berekent het aantal volle weken dat verstreken is tussen twee dagen
