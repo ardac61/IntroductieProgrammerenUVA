@@ -1,4 +1,4 @@
-
+if __name__ == '__main__':
 
 def weeks_elapsed (day1: int, day2: int) -> str:
     """
