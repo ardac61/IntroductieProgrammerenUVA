@@ -16,6 +16,6 @@ def weeks_elapsed (day1: int, day2: int) -> str:
     """
     weken = day2 - day1
     
-    return 
+    return print(f"")
     
 weeks_elapsed(3, 20)
