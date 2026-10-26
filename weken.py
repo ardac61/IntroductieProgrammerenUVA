@@ -20,5 +20,5 @@ def weeks_elapsed (day1: int, day2: int) -> str:
     
 weeks_elapsed(3, 20)
 weeks_elapsed(20, 3)
-weeks_elapsed(3, 20)
+weeks_elapsed(8, 20)
 weeks_elapsed(3, 20)
