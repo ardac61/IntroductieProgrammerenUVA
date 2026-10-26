@@ -24,8 +24,4 @@ def weeks_elapsed (day1: int, day2: int) -> str:
     
     return print(f"Weken voorbij: {weken}")
     
-% python3 weken.py
-Dagnummer 1: 3
-Dagnummer 2: 20
-Er zijn 2 volle weken verstreken.
 
