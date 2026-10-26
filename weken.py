@@ -22,4 +22,4 @@ def weeks_elapsed (day1: int, day2: int) -> int:
     dagen_verstreken = dag1 - dag2
     
     weken = dagen_verstreken // 7
-    return print(f"Er zijn {weken} weken dagen_verstreken")
+    return print(f"Er zijn {weken} weken weken verstreken")
