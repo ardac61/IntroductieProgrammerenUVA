@@ -4,7 +4,7 @@ if __name__ == '__main__':
     result = abs(day2 - day1) // 7
     print(f"Er zijn {result} volle weken verstreken.")
 
-def weeks_elapsed (day1: int, day2: int) -> str:
+if __name__ == '___main__'
     """
     Berekent het aantal volle weken dat verstreken is tussen twee dagen
     in hetzelfde jaar. De dagen zijn gegeven als dagnummer (day1 en day2).
