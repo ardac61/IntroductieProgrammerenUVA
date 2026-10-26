@@ -24,5 +24,5 @@ if __name__ == '__main__'
     day2 = int(input("Dagnummer 2: "))
     result = abs(day2 - day1) // 7
     
-    print(f"Er zijn {result")
+    print(f"Er zijn {result} volle weken verstreken)
 
